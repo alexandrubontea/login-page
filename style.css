@@ -186,7 +186,7 @@ body {
 
 .logreg-box .form-box.login {
     transform: translateX(0);
-    transition: transform .6 ease;
+    transition: transform .6s ease;
     transition-delay: .7s;
 }
 
